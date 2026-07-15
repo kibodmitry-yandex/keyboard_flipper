@@ -1,4 +1,4 @@
-# 🎯 Ollama Repository
+# 🎯 Keyboard Flipper Repository
 
 Этот репозиторий содержит несколько утилит и приложений для работы с Ollama и текстовой обработкой.
 
