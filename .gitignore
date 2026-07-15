@@ -1,0 +1,6 @@
+.github/
+.venv/
+.instructions.md
+build/
+__pycache__/keyboard_flipper.cpython-311.pyc
+streamlit/
